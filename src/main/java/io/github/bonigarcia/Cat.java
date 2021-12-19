@@ -150,4 +150,6 @@ public class Cat {
                 + opinions + "]";
     }
 
+    // Esto es un comentario random
+
 }
